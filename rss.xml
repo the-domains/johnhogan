@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[johnhogan]]></title>
         <description><![CDATA[johnhogan]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/johnhogan/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 24 Feb 2016 20:47:09 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 24 Feb 2016 20:47:10 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/johnhogan/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Login - MyPSUP]]></title>
+            <description><![CDATA[<article><h1>Login - MyPSUP</h1><p>Participatory Slum Upgrading Programme - A UN-HABITAT programme in cooperation with the European Commission and the Africa, Caribbean and Pacific (ACP) Secretariat.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c71f52b7c49087570d36d3c847985f3bae517313.png"></article>]]></description>
+            <link>http://www.mypsup.org/login</link>
+            <guid isPermaLink="false">09494263-76a6-44a6-8730-9d34db4fc04f</guid>
+            <pubDate>Wed, 24 Feb 2016 20:47:09 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Vienna hosts first mayoral conference on City Prosperity Initiative]]></title>
             <description><![CDATA[<article><h1>Vienna hosts first mayoral conference on City Prosperity Initiative</h1><p>Vienna 30 July 2015- Over 100 participants, including more than 20 mayors and other high ranking municipal and national officials, last week participated in the first Mayoral Conference on the City Prosperity Initiative held at the United Nations Office in Vienna.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c3997eb705206b25a20012c374a3cde24e459757.jpg"></article>]]></description>
