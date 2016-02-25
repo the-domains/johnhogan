@@ -1,15 +1,7 @@
-layout_spectrum: 0.07196496
-favicon: null
 name: johnhogan
-purpose: []
-analytics:
-  facebook: null
-  google: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+favicon: null
+layout_spectrum: 0.07196496
+typography_spectrum: 0.7901986455544829
 collections:
   - index:
       navigable: true
@@ -22,19 +14,28 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
+title: John Hogan
 cta:
   domain: null
-  version: null
   bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  brandStrength: 0.375
-  saturation: 0.5852362853474915
   brandColors:
     - '#17BEBB'
     - '#2E282A'
     - '#CD5334'
     - '#EDB88B'
     - '#FAD8D6'
+  brandStrength: 0.375
   lightness: 0.9154276042245328
+  saturation: 0.5852362853474915
   rhythmicContrast: 0.265276063233614
-typography_spectrum: 0.7901986455544829
+purpose: []
