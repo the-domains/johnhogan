@@ -1,7 +1,7 @@
 name: john hogan
 favicon: null
 layout_spectrum: 1
-typography_spectrum: 0.7901986455544829
+typography_spectrum: 0.58966
 collections:
   - index:
       navigable: true
@@ -36,6 +36,6 @@ color:
     - '#FAD8D6'
   brandStrength: 1
   lightness: 0.125
-  saturation: 0.1875
-  rhythmicContrast: 0
+  saturation: 0
+  rhythmicContrast: 0.75
 purpose: []
