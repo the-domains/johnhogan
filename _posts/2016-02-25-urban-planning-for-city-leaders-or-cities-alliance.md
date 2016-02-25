@@ -22,8 +22,8 @@ inLanguage: en
 app_links: []
 isBasedOnUrl: 'http://www.citiesalliance.org/node/3333'
 title: 'Urban Planning for City Leaders | Cities Alliance'
-datePublished: '2016-02-25T02:21:08.264Z'
-dateModified: '2016-02-24T21:43:55.063Z'
+datePublished: '2016-02-25T03:46:09.798Z'
+dateModified: '2016-02-24T21:05:03.372Z'
 sourcePath: _posts/2016-02-25-urban-planning-for-city-leaders-or-cities-alliance.md
 published: true
 inFeed: true
