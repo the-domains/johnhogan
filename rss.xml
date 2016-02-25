@@ -1,11 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[johnhogan]]></title>
-        <description><![CDATA[johnhogan]]></description>
+        <title><![CDATA[John Hogan]]></title>
+        <description><![CDATA[John Hogan]]></description>
         <link>https://thegrid.ai/johnhogan/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 25 Feb 2016 14:18:43 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 25 Feb 2016 14:24:32 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/johnhogan/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/1b09ce50-b332-40e8-8d0f-b24282ce3938.JPG">]]></description>
+            <link>https://thegrid.ai/johnhogan/6ac06b64-c8da-4a65-9979-5bb28d7e60fa/index.html</link>
+            <guid isPermaLink="false">6ac06b64-c8da-4a65-9979-5bb28d7e60fa</guid>
+            <pubDate>Thu, 25 Feb 2016 14:22:33 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="http://unhabitat.org/wp-content/uploads/2015/07/Climate-Change-Academy.jpg">]]></description>
